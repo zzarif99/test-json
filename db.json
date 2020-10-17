@@ -1,0 +1,44 @@
+{
+  "teachers": [
+    {
+      "name": "Abu Hasan Masud",
+      "institution": "Mathematics, BUET"
+    },
+    {
+      "name": "Md Sazzad Hossain",
+      "institution": "Physics, BUET"
+    },
+    {
+      "name": "Mir Tahajjat Hossain",
+      "institution": "Chemistry, BUET"
+    },
+    {
+      "name": "Abdul Bari" ,
+      "institution": "Biology, DMC"
+    },
+    {
+      "name": "Ahmed Hasan",
+      "institution": "Dept of English, DU"
+    },
+    {
+      "name": "John Doe",
+      "institution": "Dept of Bengali, DU"
+    },
+    {
+      "name": "Tiger Woods",
+      "institution": "Biology, CMC"
+    },
+    {
+      "name": "Eddie Hall",
+      "institution": "Chemistry, BUET"
+    },
+    {
+      "name": "Brian Shaw",
+      "institution": "Mathematics, BUET"
+    },
+    {
+      "name": "Hafthor Julius",
+      "institution": "Physics, BUET"
+    }
+  ]
+}
